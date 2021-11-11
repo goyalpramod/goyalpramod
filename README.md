@@ -1,5 +1,5 @@
 {it's a work in progress don't judge, check back later. It gon be awesomeeeeeeee}
-
+<!-- 
 <p align="center">
   <img src="https://c.tenor.com/DSG9ZID25nsAAAAC/hello-there-general-kenobi.gif">
 </p>
@@ -11,9 +11,9 @@
 <p align="center">
   <img src="https://c.tenor.com/G24ZSNHLmRUAAAAC/yahia-potato.gif">
 </p>
-
-- 👋 Hi, I’m @newbiecoder1331
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ -->
+- 👋 Hi, I’m Pramod Goyal
+- 👀 I’m interested in Data science, ML
+- 🌱 I’m currently learning deep learning
+- 💞️ I’m looking to collaborate on machine learning projects
+- 📫 How to reach me , mai at sodiumbromate3.14@gmail.com
