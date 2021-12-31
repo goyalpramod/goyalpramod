@@ -16,4 +16,4 @@
 - 👀 I’m interested in Data science, ML
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on machine learning projects
-- 📫 How to reach me , mail at sodiumbromate3.14@gmail.com
+- 📫 How to reach me , mail at goyalpramod1729@gmail.com
