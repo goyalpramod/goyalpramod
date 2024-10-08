@@ -13,7 +13,7 @@
 <br><br>
 
 - 👋 Hi, I’m Pramod
-- 💼 I'm a student in NIT rourkela 
+- 💼 I'm an AI developer
 - 💬 Talk to me about Data science, Machine learning and software development 
 - 👯 I’m looking to collaborate on LangChain projects 
 
