@@ -1,6 +1,6 @@
 ![Header Image](https://github.com/goyalpramod/goyalpramod/blob/main/assets/Banner.png)
 
-# Hi, I'm Pramod 👋
+# Hi, I'm Pramod
 
 I'm an AI developer trying to change the world.
 
@@ -13,4 +13,4 @@ I'm an AI developer trying to change the world.
 [![Kaggle](https://img.shields.io/badge/Kaggle-black?style=flat&logo=kaggle)](https://www.kaggle.com/pramodgoyal)
 [![Email](https://img.shields.io/badge/Email-black?style=flat&logo=gmail)](mailto:goyalpramod1729@gmail.com)
 
-[📚 My Codex](https://goyalpramod.github.io/)
+[My Codex](https://goyalpramod.github.io/)
