@@ -2,9 +2,9 @@
 
 # Hi, I'm Pramod 👋
 
-I'm an AI developer passionate about Data Science, Machine Learning, and Software Development. Currently looking to collaborate on LangChain projects.
+I'm an AI developer trying to change the world.
 
-### Let's Connect
+### Feel free to reach out to me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/goyalpramod/)
 [![X](https://img.shields.io/badge/X-black?style=flat&logo=x)](https://twitter.com/goyal__pramod)
